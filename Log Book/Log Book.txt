@@ -1,0 +1,43 @@
+==================================
+Nama Kelompok	: Jecayap 
+Judul Topik	: Games
+Alamat Github	: https://github.com/Yapzzz/Tugas-Proyek--TKPPL
+Alamat Trello	: https://trello.com/b/dH3pjE50/proyek-tkppl-games
+Anggota 1	:
+	Nama	: Alexander Yap
+	NIM	: 121110341
+Anggota 2	:
+	Nama	: Calvin
+	NIM	: 121110197
+Anggota 3	:
+	Nama	: Jeffry Owen
+	NIM	: 121110227
+==================================
+
+Sprint
+------
+Sprint 1:
+26/5 - 29/5
+Scrummaster : Alexander Yap (12110341)
+Sprint 2:
+
+
+Sprint 3:
+
+
+
+Progress Harian
+---------------
+Daily Scrum
+
+Tanggal 26/5
+Jeffry Owen - 121110227
+1. -
+2. Hari ini saya mengerjakan slide tentang jenis-jenis games bagian hanya sampai 2 jenis dulu
+3. Saya ada kendala di masalah clone karena setelah clone lokalhost:8000 tidak keluar slide
+
+Calvin - 121110197
+1. -
+2. Hari ini saya mengerjakan slide tentang sejarah Games
+3. Saya ada kendala di dalam masalah push karena masalah jaringan & pengeditan file jade karena belum terlalu menguasai
+	
