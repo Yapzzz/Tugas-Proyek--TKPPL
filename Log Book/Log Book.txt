@@ -1,4 +1,4 @@
-==================================
+=====================================================================================================================
 Nama Kelompok	: Jecayap 
 Judul Topik	: Games
 Alamat Github	: https://github.com/Yapzzz/Tugas-Proyek--TKPPL
@@ -12,25 +12,32 @@ Anggota 2	:
 Anggota 3	:
 	Nama	: Jeffry Owen
 	NIM	: 121110227
-==================================
+======================================================================================================================
 
 Sprint
 ------
 Sprint 1:
 26/5 - 29/5
 Scrummaster : Alexander Yap (12110341)
-Sprint 2:
 
+Sprint 2:
+30/5 - 2/6
+Scrummaster :
 
 Sprint 3:
-
-
+3/6 - 6/6
+Scrummaster : 
 
 Progress Harian
----------------
-Daily Scrum
-
+-----------------------------------------------------------------------------------------------------------------------
+Daily Scrum:
+=======================================================================================================================
 Tanggal 26/5
+Alexander Yap - 121110341
+1. -
+2. Hari ini saya mengerjakan Tampilan awal atau halaman pengenalan slide
+3. Saya ada kendala di masalah push remote add origin master dimana ditampilkan fatal error:existing origin already exist
+
 Jeffry Owen - 121110227
 1. -
 2. Hari ini saya mengerjakan slide tentang jenis-jenis games bagian hanya sampai 2 jenis dulu
@@ -40,4 +47,38 @@ Calvin - 121110197
 1. -
 2. Hari ini saya mengerjakan slide tentang sejarah Games
 3. Saya ada kendala di dalam masalah push karena masalah jaringan & pengeditan file jade karena belum terlalu menguasai
-	
+=======================================================================================================================
+=======================================================================================================================
+Tanggal 27/5
+Alexander Yap - 121110341
+1. Semalam saya mengerjakan Tampilan awal dari slide
+2. Hari ini saya mengerjakan Definisi games menurut kamus & para ahli
+3. Saya ada kendala di masalah internet yang sangat lambat dimana proses push & clone gagal terus
+
+Jeffry Owen - 121110227
+1. Semalam saya mengerjakan slide tentang jenis-jenis games genre hanya 2 jenis
+2. Hari ini saya mengerjakan slide tentang jenis-jenis games menambahkan 1 jenis genre lagi yaitu MMORPG
+3. Saya tidak ada kendala
+
+Calvin - 121110197
+1. -
+2. Hari ini saya mengerjakan slide tentang sejarah Games
+3. Saya ada kendala di dalam memasukkan gambar, gambar tidak muncul walaupun sudah dimasukkan
+=======================================================================================================================
+=======================================================================================================================
+Tanggal 28/5
+Alexander Yap - 121110341
+1. Semalam saya mengerjakan definisi games menurut kamus & para ahli
+2. Hari ini saya mengedit tampilan awal pengenalan & menambahkan gambar agar terlihat menarik
+3. Saya tidak ada kendala
+
+Jeffry Owen - 121110227
+1. Semalam saya mengerjakan slide tentang jenis-jenis games menambahkan jenis MMORPG
+2. Hari ini saya mengerjakan slide tentang jenis-jenis games menambahkan 2 jenis genre lagi
+3. Saya ada kendala pada pedamaman lampu yang lama dimana masalah ini sangat menghambat pengerjaan tugas saya
+
+Calvin - 121110197
+1. Semalam saya mengerjakan slide tentang sejarah Games 
+2. Hari ini saya mengerjakan kelanjutan dari sejarah tentang Games serta penambahan gambar
+3. Saya tidak ada kendala
+=======================================================================================================================	
