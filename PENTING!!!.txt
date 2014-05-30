@@ -1,2 +1,0 @@
-copykan node_modules, public di folder hasil clone karena tidak bisa di add di git
-tambahkan bower di dalam folder src karnea tidak bisa di add di git
