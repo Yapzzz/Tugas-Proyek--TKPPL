@@ -18,11 +18,11 @@ Sprint
 ------
 Sprint 1:
 26/5 - 29/5
-Scrummaster : Alexander Yap (12110341)
+Scrummaster : Alexander Yap (121110341)
 
 Sprint 2:
 30/5 - 2/6
-Scrummaster :
+Scrummaster : Calvin (121110197)
 
 Sprint 3:
 3/6 - 6/6
@@ -97,5 +97,22 @@ Jeffry Owen - 121110227
 Calvin - 121110197
 1. Semalam saya mengerjakan kelanjutan dari sejarah tentang games dan tambah gambar
 2. Hari ini saya menambhkan sejarah games generasi ke 5 dan 6 beserta gambar
+3. Saya tidak ada kendala
+=======================================================================================================================	
+=======================================================================================================================	
+Tanggal 30/5
+Alexander Yap - 121110341
+1. Semalam saya mengedit tampilan definisi games & menambahkan gambar para ahli yang berkaitan di slide
+2. Hari ini saya menambah 3 slide software populer dalam membuat game
+3. Saya tidak ada kendala
+
+Jeffry Owen - 121110227
+1. Semalam saya menambahkan gambar pada semua genre dan melakukan perubahan sedikit pada slide genre
+2. Hari ini saya menambah slide game terkenal saat ini
+3. Saya ada kendala pada gangguan internet yang lambat
+
+Calvin - 121110197
+1. Semalam saya melanjutkan slide tentang sejarah game dan menambah gambar
+2. Hari ini saya menyelesaikan slide tentang sejarah game dan menambah slide dampak positif dari game
 3. Saya tidak ada kendala
 =======================================================================================================================	
