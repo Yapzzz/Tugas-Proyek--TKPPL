@@ -21,11 +21,11 @@ Sprint 1:
 Scrummaster : Alexander Yap (121110341)
 
 Sprint 2:
-30/5 - 2/6
+30/5 - 3/6
 Scrummaster : Calvin (121110197)
 
 Sprint 3:
-3/6 - 6/6
+4/6 - 7/6
 Scrummaster : 
 
 Progress Harian
@@ -131,5 +131,22 @@ Jeffry Owen - 121110227
 Calvin - 121110197
 1. Semalam saya menambah slide dampak positif
 2. Hari ini saya melanjutkan dampak positif + negatif
+3. Saya tidak ada kendala
+=======================================================================================================================	
+=======================================================================================================================	
+Tanggal 1/6
+Alexander Yap - 121110341
+1. Semalam saya menambah 1 jenis sofware
+2. Hari ini saya menambah 1 jenis software lagi
+3. Tidak ada kendala
+
+Jeffry Owen - 121110227
+1. Semalam saya menambahkan slide dan gambar
+2. Hari ini saya menambah 1 slide
+3. Tidak ada kendala
+
+Calvin - 121110197
+1. Semalam saya melanjutkan dampak positif + negatif
+2. Hari ini saya membuat slide jenis-jenis game berdasarkan platform
 3. Saya tidak ada kendala
 =======================================================================================================================	
