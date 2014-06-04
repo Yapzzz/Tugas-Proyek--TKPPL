@@ -26,7 +26,7 @@ Scrummaster : Calvin (121110197)
 
 Sprint 3:
 4/6 - 7/6
-Scrummaster : 
+Scrummaster : Jeffry Owen (121110227)
 
 Progress Harian
 -----------------------------------------------------------------------------------------------------------------------
@@ -167,3 +167,19 @@ Calvin - 121110197
 2. Hari ini saya membuat slide jenis-jenis game berdasarkan platform
 3. Jaringan lambat
 =======================================================================================================================	
+=======================================================================================================================
+Tanggal 4/6
+Alexander Yap - 121110341
+1. Semalam saya menambah 1 slide jenis software
+2. Hari ini saya membuat 3 slide kuliah jurusan game dan tambah video di awal slide
+3. Jaringan internet lambat parah sehingga push jadi lama
+
+Jeffry Owen - 121110227
+1. Semalam saya menambahkan 1 slide lagi
+2. Hari ini saya membuat slide perubahan tampilan game yang lalu dan sekarang
+3. Tidak ada kendala
+
+Calvin - 121110197
+1. Semalam saya membuat slide jenis-jenis game berdasarkan platform
+2. Hari ini saya membuat slide game masa depan
+3. Tidak ada kendala
